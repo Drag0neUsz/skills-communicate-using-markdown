@@ -1,3 +1,5 @@
 # BING CHILLING
 
 a short, meaningful commit message that describes the change you made to the file. :)
+
+![WOMP WOMP ALT-TEXT FREAKYE](https://media.tenor.com/qo59jy2oZM8AAAAM/kanye-west-vultures.gif)
